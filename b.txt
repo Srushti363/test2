@@ -1,1 +1,5 @@
+this<<<<<<< HEAD
 this is b.
+=======
+this is b
+>>>>>>> car
